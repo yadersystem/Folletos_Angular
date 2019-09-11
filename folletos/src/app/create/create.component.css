@@ -1,0 +1,25 @@
+/* Alineamientos*/
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+}
+
+.abs-left{
+    display: flex;
+    align-items: left;
+    justify-content:left;
+}
+
+.form {
+    width: 450px;
+}
+
+/* Bordes*/
+.borderer {
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
